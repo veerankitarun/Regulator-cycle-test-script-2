@@ -1,1 +1,4 @@
-cycles:5
+{
+    "com_port": "com6",
+    "cycles" : 2
+}
